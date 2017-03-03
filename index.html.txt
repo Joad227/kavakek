@@ -6,9 +6,7 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-	 <h1>GIT рак</h1>
-	<p>kek lol azaza</p>
-	<p>lul lul lul</p>
+	 <p>Hello word jdde jdndj jenjd n</p>
 
 
 
